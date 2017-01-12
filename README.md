@@ -1,1 +1,3 @@
-# hello-world
+Hello! I'm Jai and I study Neuroscience and English formally, but due to the financial and temporal constraints of college, I've resorted to teaching myself computer science, with a focus on machine learning.
+My neuroscience background has provided me a wealth of questions I wish to explore and apply to computational models and data. This journey is a very different venture for me since self-motivation requires an alteration in one's mindset from goal-oriented action to a curiosity-oriented mentality. 
+Over time I'll be posting work I do either as fun or as a formal project of sorts, and I hope to contribute to the github community.
